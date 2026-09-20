@@ -2,6 +2,8 @@
 
 ### 13y/o building crew
 
+[![crew](https://www.meetcrew.app/hk460xg0qt/u/zackfoundertest/badge.svg)](https://www.meetcrew.app/hk460xg0qt/u/zackfoundertest)
+
 <p align="left"> <a href="https://twitter.com/zackguerrand_" target="blank"><img src="https://img.shields.io/twitter/follow/zackguerrand_?logo=twitter&style=for-the-badge" alt="zackguerrand_" /></a> </p>
 
 - 🔭 I'm currently working on **Crew**
