@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/zackguerrand_" target="blank"><img src="https://img.shields.io/twitter/follow/zackguerrand_?logo=twitter&style=for-the-badge" alt="zackguerrand_" /></a> </p>
 
-- 🔭 I'm currently working on **Crew**
+- 🔭 I'm currently working on **Proven Founder**
 
 - 🌱 I'm currently learning **how to run a saas**
 
